@@ -41,6 +41,12 @@ h3 {
 
 .bottom-container {}
 
+
+.my-photo {
+    width: 10%;
+}
+
+
 .top-cloud {
     position: absolute;
     right: 500px;
